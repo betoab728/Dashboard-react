@@ -1,4 +1,4 @@
-Descripción del Proyecto
+Descripción del Proyecto:
 Este es un proyecto de plantilla para una aplicación de gestión utilizando React, Material-UI (MUI), y Tailwind CSS. La plantilla proporciona una estructura básica para un panel de administración con un diseño moderno y funcional. Incluye componentes esenciales como:
 
 AppBar: Barra de navegación superior.
