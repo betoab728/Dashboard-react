@@ -22,5 +22,8 @@ Instalación
 3. Instala las dependencias: npm install
 4.npm run dev
 
+![image](https://github.com/user-attachments/assets/d644cc71-2ad1-4b10-8fda-0d79fd44cbe0)
+
+
 
 
